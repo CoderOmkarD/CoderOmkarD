@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omkar</h1>
-<h3 align="center">A Passionate Full Stack Developer from India 🇮🇳</h3>
+<h3 align="center">A Passionate Full Stack Developer from India,Pune</h3>
 
 ---
 
@@ -12,28 +12,29 @@
 
 ---
 
+
+
+---
+
+### 🛠️ Languages & Tools  
+<h1>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,javascript,nodejs,express,mongodb,mysql,maven,postman,git,github,linux,idea,vscode" />
+</p>
+</h1>
+
+---
+
+### 👨‍💻 Developer GIF  
+
+
+---
 ### 🌐 Connect With Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 </p>
-
----
-
-### 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,react,javascript,nodejs,express,mongodb,mysql,maven,postman,git,github,linux,idea,vscode" />
-</p>
-
----
-
-### 👨‍💻 Developer GIF  
-<p align="center">
-  <img src="https://raw.githubusercontent.com/harshadbhosale21/harshadbhosale21/main/dev.gif" width="350" />
-</p>
-
----
 
 ### 📊 GitHub Stats  
 <div align="center">
