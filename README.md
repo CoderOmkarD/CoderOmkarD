@@ -10,11 +10,6 @@
 - 🧑‍💻 I love building projects from scratch and understanding every concept deeply  
 - ⚡ Fact: I prefer writing clean, understandable code over copying code  
 
----
-
-
-
----
 
 ### 🛠️ Languages & Tools  
 <h1>
@@ -25,49 +20,11 @@
 
 ---
 
-### 👨‍💻 Developer GIF  
-
-
----
 ### 🌐 Connect With Me  
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR-LINK" target="_blank">
+<a href="https://www.linkedin.com/in/omkar-durge-034342307/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 </p>
 
-### 📊 GitHub Stats  
-<div align="center">
 
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=react)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=react)
-
-</div>
-
----
-
-### 🏆 Achievements & Trophies  
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=10)
-
-</div>
-
----
-
-### 🔥 Streak Stats  
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=react)
-
-</div>
-
----
-
-### 👀 Profile Views  
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue&style=flat" alt="views" />
-</p>
-
----
