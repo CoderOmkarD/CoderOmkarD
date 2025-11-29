@@ -14,7 +14,8 @@
 ### 🛠️ Languages & Tools  
 <h1>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,javascript,nodejs,express,mongodb,mysql,maven,postman,git,github,linux,idea,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,javascript,nodejs"/>
+    <img src="https://skillicons.dev/icons?i=express,mongodb,mysql,maven,postman,git,github,linux,idea,vscode" />
 </p>
 </h1>
 
