@@ -14,10 +14,10 @@
 ### 🛠️ Languages & Tools  
 <h1>
 <p align="left" >
-  <img height="60" src="https://skillicons.dev/icons?i=java,spring,react,javascript,express,mongodb,mysql"/></p>
+  <img height="90" src="https://skillicons.dev/icons?i=java,spring,react,javascript,express,mongodb,mysql"/></p>
 
   <p>
-    <img height="60" src="https://skillicons.dev/icons?i=nodejs,postman,git,github,linux,idea,vscode" />
+    <img height="90" src="https://skillicons.dev/icons?i=nodejs,postman,git,github,linux,idea,vscode" />
 </p>
 </h1>
 
