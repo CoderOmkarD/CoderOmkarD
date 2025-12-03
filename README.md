@@ -2,8 +2,11 @@
 <h3 align="center">A Passionate Full Stack Developer </h3>
 
 💻 Developer | 🧠 DSA Learner | 🧩 Logic Builder
+
 🚀 Future Backend Engineer | 📚 DSA Practitioner
+
 ⚙️ Problem Solver | 🔢 DSA & Algorithms Explorer
+
 🧠 Strong in Logic | 🛠️ Currently mastering DSA
 
 ---
