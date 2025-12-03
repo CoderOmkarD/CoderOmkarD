@@ -4,7 +4,7 @@
 
 ---
 
-### 🚀 About Me  
+## 🚀 About Me  
 - 🔭 I’m currently working on: **React + Spring Boot + MongoDB projects**  
 - 🌱 I’m learning: **Advanced Spring Boot, REST APIs, and Frontend with React**  
 - 💬 Ask me about: **Java, Spring Boot, REST APIs, React, MongoDB**  
@@ -17,7 +17,6 @@
   ⭐ Java | 🔵 C++ | 🔷 C | 🟨 JavaScript  
 </p>
 
-### 🛠️ Languages & Tools  
 <h1
   ---
 
@@ -26,10 +25,8 @@
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+
 
 ---
 <p align="left" >
@@ -42,7 +39,7 @@
 
 ---
 
-### 🌐 Connect With Me  
+## 🌐 Connect With Me  
 <p align="left">
 <a href="https://www.linkedin.com/in/omkar-durge-034342307/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
