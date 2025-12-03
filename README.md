@@ -10,13 +10,18 @@
 
 ## 🚀 About Me  
 🔭 I’m currently working on: React + Spring Boot + MongoDB full-stack projects
+
 🌱 I’m learning: Advanced Spring Boot, REST APIs, React, and sharpening DSA fundamentals
 
 💬 Ask me about:
 Java, Spring Boot, REST APIs, MongoDB, React — and on the DSA side: Arrays, Strings, HashMaps, Trees
+
 🧑‍💻 I love building real-world applications and understanding every concept deeply
+
 🧠 DSA Side: I enjoy improving logic, learning patterns, and writing optimized solutions
+
 ⚡ Fact: I believe in clean, readable code for development and efficient logic for DSA
+
 ## 🔍 Main Focus
 
 <p align="center">
