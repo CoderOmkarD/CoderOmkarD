@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Omkar</h1>
 <h3 align="center">A Passionate Full Stack Developer </h3>
-💻 Developer | 🧩 Logic Builder 
+💻 Developer | 🧠 DSA Learner | 🧩 Logic Builder
+
+🚀 Future Backend Engineer | 📚 DSA Practitioner
+
+⚙️ Problem Solver | 🔢 DSA & Algorithms Explorer
+
+🧠 Strong in Logic | 🛠️ Currently mastering DSA
 
 ---
 
