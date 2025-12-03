@@ -1,22 +1,22 @@
 <h1 align="center">Hi 👋, I'm Omkar</h1>
 <h3 align="center">A Passionate Full Stack Developer </h3>
+
 💻 Developer | 🧠 DSA Learner | 🧩 Logic Builder
-
 🚀 Future Backend Engineer | 📚 DSA Practitioner
-
 ⚙️ Problem Solver | 🔢 DSA & Algorithms Explorer
-
 🧠 Strong in Logic | 🛠️ Currently mastering DSA
 
 ---
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on: **React + Spring Boot + MongoDB projects**  
-- 🌱 I’m learning: **Advanced Spring Boot, REST APIs, and Frontend with React**  
-- 💬 Ask me about: **Java, Spring Boot, REST APIs, React, MongoDB**  
-- 🧑‍💻 I love building projects from scratch and understanding every concept deeply  
-- ⚡ Fact: I prefer writing clean, understandable code over copying code  
+🔭 I’m currently working on: React + Spring Boot + MongoDB full-stack projects
+🌱 I’m learning: Advanced Spring Boot, REST APIs, React, and sharpening DSA fundamentals
 
+💬 Ask me about:
+Java, Spring Boot, REST APIs, MongoDB, React — and on the DSA side: Arrays, Strings, HashMaps, Trees
+🧑‍💻 I love building real-world applications and understanding every concept deeply
+🧠 DSA Side: I enjoy improving logic, learning patterns, and writing optimized solutions
+⚡ Fact: I believe in clean, readable code for development and efficient logic for DSA
 ## 🔍 Main Focus
 
 <p align="center">
