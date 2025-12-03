@@ -18,7 +18,20 @@
 </p>
 
 ### 🛠️ Languages & Tools  
-<h1>
+<h1
+  ---
+
+## ⚙️ Languages & Tools
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+
+---
 <p align="left" >
   <img height="120" src="https://skillicons.dev/icons?i=java,spring,react,javascript,express,mongodb,mysql"/></p>
 
