@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omkar</h1>
-<h3 align="center">A Passionate Full Stack Developer from India,Pune</h3>
+<h3 align="center">A Passionate Full Stack Developer </h3>
+💻 Developer | 🧩 Logic Builder 
 
 ---
 
