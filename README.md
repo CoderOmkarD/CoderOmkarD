@@ -11,6 +11,11 @@
 - 🧑‍💻 I love building projects from scratch and understanding every concept deeply  
 - ⚡ Fact: I prefer writing clean, understandable code over copying code  
 
+## 🔍 Main Focus
+
+<p align="center">
+  ⭐ Java | 🔵 C++ | 🔷 C | 🟨 JavaScript  
+</p>
 
 ### 🛠️ Languages & Tools  
 <h1>
