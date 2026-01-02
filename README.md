@@ -5,7 +5,7 @@
 
 🚀 Future Backend Engineer | 📚 DSA Practitioner
 
-⚙️ Problem Solver | 🔢 DSA & Algorithms Explorer
+⚙️ Problem Solver |🔢 DSA & Algorithms Explorer
 
 🧠 Strong in Logic | 🛠️ Currently mastering DSA
 
