@@ -26,7 +26,7 @@ Java, Spring Boot, REST APIs, MongoDB, React — and on the DSA side: Arrays, St
 ⚡ Fact: I believe in clean, readable code for development and efficient logic for DSA
 
 
-## 📌 Featured Repositories   
+## 📌 Featured Repositories     
 
 | Repository | Description |
 | ----------------------------- | ------------------------------------------------------------------------------------ |
